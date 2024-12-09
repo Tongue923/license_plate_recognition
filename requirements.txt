@@ -1,0 +1,10 @@
+Flask
+opencv-python
+numpy
+ultralytics
+sort
+fast_plate_ocr
+string
+filterpy==1.4.5
+scikit-image==0.17.2
+lap==0.4.0
